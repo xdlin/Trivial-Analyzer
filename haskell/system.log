@@ -1,0 +1,849 @@
+May 15 00:30:07 Lin-Xiangdongs-iMac newsyslog[1362]: logfile turned over
+May 15 00:31:52 Lin-Xiangdongs-iMac installd[537]: Exiting.
+May 15 00:31:59 Lin-Xiangdongs-iMac Welly[1403]: A regular control size progress indicator <PSMProgressIndicator: 0x105218760> with the frame size for small control size detected.  Please use -setControlSize: to explicitly specify NSSmallControlSize
+May 15 00:35:05 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setDataSource:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:05 Lin-Xiangdongs-iMac Welly[1403]: [QL] -[QLPreviewView setEnableDragNDrop:] has been deprecated and will be removed in a future release. 
+May 15 00:35:05 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:05 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:14 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:14 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:28 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:28 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:33 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:33 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:40 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:35:40 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:20 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:20 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:36 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:36 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:41 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:41 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:47 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:36:47 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:37:46 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:37:46 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:37:58 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:37:58 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:38:06 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:38:06 Lin-Xiangdongs-iMac Welly[1403]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: pentadactyl: bootstrap: shutdown shutdown
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: pentadactyl: All dactyl modules destroyed
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: * created temp file                     	 (0)
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: * saved filter data                     	 (6)
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: * saved subscription data               	 (5)
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: * finalized file write                  	 (0)
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: * created backups and renamed temp file 	 (42)
+May 15 00:38:18 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: AUP timeline: filterStorage.saveToDisk() done         	 (0)
+May 15 00:38:19 Lin-Xiangdongs-iMac [0x0-0x1f01f].org.mozilla.firefox[289]: NOTE: child process received `Goodbye', closing down
+May 15 00:38:27 Lin-Xiangdongs-iMac login[161]: DEAD_PROCESS: 161 ttys001
+May 15 00:38:27 Lin-Xiangdongs-iMac login[158]: DEAD_PROCESS: 158 ttys000
+May 15 00:38:27 Lin-Xiangdongs-iMac Alfred[212]: Alfred App is exiting, cleaning up...
+May 15 00:38:27 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[109] ([0x0-0x15015].com.apple.iTunesHelper[211]): Exited: Killed: 9
+May 15 00:38:27 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[109] (com.apple.dt.instruments.backgroundinstruments[192]): Exited: Killed: 9
+May 15 00:38:27 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[109] ([0x0-0x1b01b].com.apple.AppleSpell[220]): Exited: Killed: 9
+May 15 00:38:27 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[109] ([0x0-0x5a05a].com.apple.ImageCaptureExtension2[1013]): Exited: Killed: 9
+May 15 00:38:27 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[109] (com.apple.talagent[126]): Exited: Killed: 9
+May 15 00:38:27 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[109] (com.apple.mdworker.pool.0[1300]): Exited: Terminated: 15
+May 15 00:38:27 Lin-Xiangdongs-iMac [0x0-0x21021].com.sogou.inputmethod.sogou[306]: 初始化成功
+May 15 00:38:28 Lin-Xiangdongs-iMac loginwindow[63]: DEAD_PROCESS: 63 console
+May 16 00:45:09 localhost bootlog[0]: BOOT_TIME 1337100309 0
+May 16 00:45:11 localhost com.apple.launchd[1]: *** launchd[1] has started up. ***
+May 16 00:45:23 localhost com.apple.launchd[1] (com.apple.instruments.server.mig): Unknown value for key POSIXSpawnType: Interactive
+May 16 00:45:23 localhost com.apple.launchd[1] (com.apple.powerd): Unknown value for key POSIXSpawnType: Interactive
+May 16 00:45:23 localhost com.apple.launchd[1] (com.apple.sandboxd): Unknown value for key POSIXSpawnType: Interactive
+May 16 00:45:36 localhost UserEventAgent[11]: starting CaptiveNetworkSupport as SystemEventAgent built Jun 13 2011 17:29:21
+May 16 00:45:36 localhost UserEventAgent[11]: CaptiveNetworkSupport:CreateInterfaceWatchList:2788 WiFi Devices Found. :)
+May 16 00:45:36 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - PreProbe
+May 16 00:45:36 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptiveSCRebuildCache:81 Failed to get service order
+May 16 00:45:37: --- last message repeated 1 time ---
+May 16 00:45:36 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - PreProbe
+May 16 00:45:36 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptiveSCRebuildCache:81 Failed to get service order
+May 16 00:45:37: --- last message repeated 1 time ---
+May 16 00:45:36 localhost UserEventAgent[11]: CertsKeychainMonitor: configuring
+May 16 00:45:37 localhost airportd[26]: _processDLILEvent: en1 attached (down)
+May 16 00:45:37 localhost mDNSResponder[12]: mDNSResponder mDNSResponder-320.16 (Mar 17 2012 21:31:16) starting OSXVers 11
+May 16 00:45:37 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptiveSCRebuildCache:81 Failed to get service order
+May 16 00:45:37: --- last message repeated 1 time ---
+May 16 00:45:37 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - PreProbe
+May 16 00:45:38 localhost systemkeychain[32]: done file: /var/run/systemkeychaincheck.done
+May 16 00:45:38 localhost mDNSResponder[12]: D2D_IPC: Loaded
+May 16 00:45:38 localhost mDNSResponder[12]: D2DInitialize succeeded
+May 16 00:45:38 localhost UserEventAgent[11]: ServermgrdRegistration cannot load config data
+May 16 00:45:38 localhost UserEventAgent[11]: get_backup_share_points no AFP
+May 16 00:45:38 localhost configd[16]: bootp_session_transmit: bpf_write(en1) failed: Network is down (50)
+May 16 00:45:38 localhost configd[16]: DHCP en1: INIT transmit failed
+May 16 00:45:38 Lin-Xiangdongs-iMac configd[16]: setting hostname to "Lin-Xiangdongs-iMac.local"
+May 16 00:45:38 Lin-Xiangdongs-iMac configd[16]: network configuration changed.
+May 16 00:45:40 Lin-Xiangdongs-iMac com.apple.pfctl[58]: No ALTQ support in kernel
+May 16 00:45:40 Lin-Xiangdongs-iMac com.apple.pfctl[58]: ALTQ related functions disabled
+May 16 00:45:40 Lin-Xiangdongs-iMac com.apple.ucupdate.plist[52]: ucupdate: Checked 1 update, no match found.
+May 16 00:45:40 Lin-Xiangdongs-iMac com.apple.usbmuxd[51]: usbmuxd-268.5 on Jan  5 2012 at 03:34:01, running 64 bit
+May 16 00:45:42 Lin-Xiangdongs-iMac netbiosd[60]: Unable to start NetBIOS name service: 
+May 16 00:45:42 Lin-Xiangdongs-iMac mds[61]: (Normal) FMW: FMW 0 0
+May 16 00:45:43 Lin-Xiangdongs-iMac loginwindow[63]: Login Window Application Started
+May 16 00:45:47 Lin-Xiangdongs-iMac loginwindow[63]: **DMPROXY** Found `/System/Library/CoreServices/DMProxy'.
+May 16 00:45:47 Lin-Xiangdongs-iMac com.apple.launchctl.LoginWindow[91]: com.apple.findmymacmessenger: Already loaded
+May 16 00:45:47 Lin-Xiangdongs-iMac airportd[26]: _doAutoJoin: Already associated to “linxd”. Bailing on auto-join.
+May 16 00:45:47 Lin-Xiangdongs-iMac loginwindow[63]: Login Window Started Security Agent
+May 16 00:45:48 Lin-Xiangdongs-iMac SecurityAgent[99]: Echo enabled
+May 16 00:45:48 Lin-Xiangdongs-iMac SecurityAgent[99]: User info context values set for linxd
+May 16 00:45:48 Lin-Xiangdongs-iMac configd[16]: network configuration changed.
+May 16 00:45:48 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - Probe
+May 16 00:45:48 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CNSPreferences:60 Creating new preferences
+May 16 00:45:48 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CaptiveStartDetect:2343 Bypassing probe on linxd because it is protected and not on the exception list
+May 16 00:45:48 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - Unknown
+May 16 00:45:48 Lin-Xiangdongs-iMac configd[16]: network configuration changed.
+May 16 00:45:48 Lin-Xiangdongs-iMac WindowServer[84]: kCGErrorFailure: Set a breakpoint @ CGErrorBreakpoint() to catch errors as they are logged.
+May 16 00:45:48 Lin-Xiangdongs-iMac loginwindow[63]: Login Window - Returned from Security Agent
+May 16 00:45:48 Lin-Xiangdongs-iMac loginwindow[63]: USER_PROCESS: 63 console
+May 16 00:45:48 Lin-Xiangdongs-iMac airportd[26]: _doAutoJoin: Already associated to “linxd”. Bailing on auto-join.
+May 16 00:45:49 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.ReportCrash): Falling back to default Mach exception handler. Could not find: com.apple.ReportCrash.Self
+May 16 00:45:49 Lin-Xiangdongs-iMac com.apple.launchctl.Aqua[109]: load: option requires an argument -- D
+May 16 00:45:49 Lin-Xiangdongs-iMac com.apple.launchctl.Aqua[109]: usage: launchctl load [-wF] [-D <user|local|network|system|all>] paths...
+May 16 00:45:50 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CNSServerRegisterUserAgent:187 new user agent port: 27163
+May 16 00:45:45 Lin-Xiangdongs-iMac ntpd[48]: proto: precision = 1.000 usec
+May 16 00:45:46 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.launchctl.Aqua[109]): Exited with code: 1
+May 16 00:45:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: dactyl: bootstrap: startup startup
+May 16 00:45:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: dactyl: bootstrap: init pentadactyl@dactyl.googlecode.com
+May 16 00:45:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: bootstrap: init
+May 16 00:45:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: [Begin base]
+May 16 00:45:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: (End   base)
+May 16 00:45:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: bootstrap: register: {16dc34f7-6d22-4aa4-a67f-2921fb5dcb69} @mozilla.org/commandlinehandler/general-startup;1?type=dactyl
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x6006].com.googlecode.iterm2[116]: objc[116]: Class GrowlApplicationBridge is implemented in both /Applications/iTerm.app/Contents/MacOS/../Frameworks/Growl.framework/Versions/A/Growl and /Applications/iTerm.app/Contents/Frameworks/Growl.framework/Growl. One of the two will be used. Which one is undefined.
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x6006].com.googlecode.iterm2[116]: objc[116]: Class GrowlDelegate is implemented in both /Applications/iTerm.app/Contents/MacOS/../Frameworks/Growl.framework/Versions/A/Growl and /Applications/iTerm.app/Contents/Frameworks/Growl.framework/Growl. One of the two will be used. Which one is undefined.
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x6006].com.googlecode.iterm2[116]: objc[116]: Class GrowlPathUtilities is implemented in both /Applications/iTerm.app/Contents/MacOS/../Frameworks/Growl.framework/Versions/A/Growl and /Applications/iTerm.app/Contents/Frameworks/Growl.framework/Growl. One of the two will be used. Which one is undefined.
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: Entered aup.init()                      	 (first event)
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * calling prefs.init()                  	 (0)
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * calling filterListener.init()         	 (1)
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * calling proxy.init()                  	 (1)
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * calling filterStorage.init()          	 (0)
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * Entered filterStorage.loadFromDisk()  	 (0)
+May 16 00:45:49 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * * done locating patterns.ini file     	 (0)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * * done parsing file                   	 (1197)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * * load complete, calling observers    	 (0)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * filterStorage.loadFromDisk() done     	 (57)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * calling policy.init()                 	 (0)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * calling synchronizer.init()           	 (1)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: aup.init() done                         	 (0)
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class DownloadHelper is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class Logger is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class StringUtils is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class SqliteDao is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class PreferenceManager is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class TaskHelper is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class BtTask is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class EmuleTask is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class P2spTask is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:50 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[120]: objc[120]: Class Task is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: bootstrap: create module: @mozilla.org/commandlinehandler/general-startup;1?type=dactyl
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: require: loading config into command-line-handler
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: [Begin config]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading dom into config
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin dom]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   dom)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading io into config
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin io]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     require: loading services into io
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     [Begin services]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     (End   services)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   io)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading protocol into config
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin protocol]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     require: loading util into protocol
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     [Begin util]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     (End   util)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   protocol)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading template into config
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin template]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   template)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading storage into resource://dactyl-mob173t71/base.jsm:128
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin storage]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   storage)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: (End   config)
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: require: loading cache into resource://dactyl-mob173t71/base.jsm:128
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: [Begin cache]
+May 16 00:45:51 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: (End   cache)
+May 16 00:45:51 Lin-Xiangdongs-iMac login[151]: USER_PROCESS: 151 ttys000
+May 16 00:45:51 Lin-Xiangdongs-iMac login[154]: USER_PROCESS: 154 ttys001
+May 16 00:45:52 Lin-Xiangdongs-iMac com.apple.dock.extra[167]: Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:45:52: --- last message repeated 3 times ---
+May 16 00:45:52 Lin-Xiangdongs-iMac com.apple.dock.extra[167]: 2012-05-16 00:45:52.602 com.apple.dock.extra[167:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:45:52 Lin-Xiangdongs-iMac com.apple.dock.extra[167]: 2012-05-16 00:45:52.603 com.apple.dock.extra[167:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:45:52: --- last message repeated 1 time ---
+May 16 00:45:52 Lin-Xiangdongs-iMac com.apple.dock.extra[167]: 2012-05-16 00:45:52.604 com.apple.dock.extra[167:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: require: loading prefs into bootstrap
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: [Begin prefs]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: (End   prefs)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: require: loading main into bootstrap
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: [Begin main]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading overlay into main
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin overlay]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   overlay)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading highlight into resource://dactyl-mob173t71/base.jsm:128
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin highlight]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   highlight)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading styles into resource://dactyl-mob173t71/base.jsm:128
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin styles]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   styles)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading messages into resource://dactyl-mob173t71/base.jsm:128
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin messages]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   messages)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading addons into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin addons]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   addons)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading buffer into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin buffer]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   buffer)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading commands into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin commands]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     require: loading contexts into commands
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     [Begin contexts]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     (End   contexts)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   commands)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading completion into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin completion]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   completion)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading downloads into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin downloads]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   downloads)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading finder into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin finder]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   finder)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading help into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin help]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   help)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading javascript into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin javascript]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   javascript)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading main into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading options into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin options]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   options)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading sanitizer into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin sanitizer]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   sanitizer)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   Load: dactyl
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     from: resource://dactyl-mob173t71/main.jsm:318
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   require: loading bookmarkcache into jsmodules
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   [Begin bookmarkcache]
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   (End   bookmarkcache)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   Load: statusline
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     from: resource://dactyl-content/dactyl.js:1353
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   Load: modes
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     from: resource://dactyl-content/modes.js:511
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   Load: tabs
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:     from: resource://dactyl-content/statusline.js:324
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   Loaded in 155ms
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: (End   main)
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: quickmarks
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/statusline.js:224
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: sourcing /Users/linxd/.pentadactylrc
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: autocommands
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-mob173t71/highlight.jsm:299
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: events
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-mob173t71/contexts.jsm:494
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: marks
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/marks.js:316
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: browser
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/browser.js:188
+May 16 00:45:56 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: done sourcing /Users/linxd/.pentadactylrc: 122ms
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: mappings
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/events.js:798
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: editor
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-mob173t71/buffer.jsm:1836
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: commandline
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/modes.js:267
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: mow
+May 16 00:45:57 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/commandline.js:881
+May 16 00:45:58 Lin-Xiangdongs-iMac [0x0-0x14014].com.sogou.inputmethod.sogou[199]: objc[199]: Object 0x476830 of class __NSCFString autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+May 16 00:45:58 Lin-Xiangdongs-iMac [0x0-0x14014].com.sogou.inputmethod.sogou[199]: objc[199]: Object 0x4768a0 of class NSPathStore2 autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+May 16 00:45:58 Lin-Xiangdongs-iMac [0x0-0x14014].com.sogou.inputmethod.sogou[199]: objc[199]: Object 0x476a70 of class NSPathStore2 autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+May 16 00:45:59 Lin-Xiangdongs-iMac SogouInput[199]: SGInputSourceChangeListener init !
+May 16 00:45:59 Lin-Xiangdongs-iMac SogouInput[199]: SGInputSourceChangeListener notifCenter addObserver !
+May 16 00:46:01 Lin-Xiangdongs-iMac SogouInput[199]: SGInputSourceChangeListener inputSourceChanged !
+May 16 00:46:04 Lin-Xiangdongs-iMac com.apple.launchd[1] (com.apple.coreservices.appleid.authentication[96]): Exit timeout elapsed (20 seconds). Killing
+May 16 00:46:05 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: Load: abbreviations
+May 16 00:46:05 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl:   from: resource://dactyl-content/editor.js:511
+May 16 00:46:08 Lin-Xiangdongs-iMac UserEventAgent[11]: [11] error in getAndLockContext: open returned -1 (errno=2)  file was /private/var/servermgrd//servermgr_certs.lock
+May 16 00:46:08: --- last message repeated 1 time ---
+May 16 00:46:08 Lin-Xiangdongs-iMac UserEventAgent[11]: CertsKeychainMonitor: ready to process keychain & timer events
+May 16 00:46:44 Lin-Xiangdongs-iMac SogouCloudAgent[216]: before listenNofification
+May 16 00:46:44 Lin-Xiangdongs-iMac appleprofilepolicyd[221]: appleprofilepolicyd: profiling drivers not loaded, loading
+May 16 00:46:44 Lin-Xiangdongs-iMac SogouCloudAgent[216]: after listenNofification
+May 16 00:46:44 Lin-Xiangdongs-iMac SogouCloudAgent[216]: before sendSkinChangedNotification
+May 16 00:46:45 Lin-Xiangdongs-iMac Growl[220]: <GCDAsyncSocket: 0x10763ee70> now accepting ((null))
+May 16 00:46:45 Lin-Xiangdongs-iMac Growl[220]: Setup timer, this should only happen once
+May 16 00:46:45 Lin-Xiangdongs-iMac Growl[220]: Next image check no earlier than 24 hours from 2012-05-15 15:59:00 +0000
+May 16 00:46:45 Lin-Xiangdongs-iMac iTerm[116]: Growl is ready
+May 16 00:46:46 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.CSConfigDotMacCert-harry.linxd@me.com-SharedServices[217]): Exited with code: 1
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: Entered INJECT_pthread_entry
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: Installing event loop timer
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: proc: 0x109820e5b
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: upp: 0x109820e5b
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: InstallEventLoopTimer: 0x7fff8ac1e23a
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: GetMainEventLoop: 0x7fff8abdf95d
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: timer installed!
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: Loading /Library/DropboxHelperTools/Dropbox_u501/DropboxBundle.bundle/Contents/MacOS/DropboxBundle
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: Dropbox: dlopen returned: 0x1096e7550
+May 16 00:47:33 Lin-Xiangdongs-iMac com.apple.Finder[124]: module initializer in main thread?: 1
+May 16 00:50:17 Lin-Xiangdongs-iMac firefox[119]: -_scrollPhase is deprecated for NSScrollWheel. Please use -momentumPhase.
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * created temp file                     	 (1)
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * saved filter data                     	 (9)
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * saved subscription data               	 (4)
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * finalized file write                  	 (0)
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * created backups and renamed temp file 	 (1)
+May 16 00:50:50 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: filterStorage.saveToDisk() done         	 (0)
+May 16 00:52:37 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: All dactyl modules destroyed
+May 16 00:52:47 Lin-Xiangdongs-iMac login[151]: DEAD_PROCESS: 151 ttys000
+May 16 00:52:47 Lin-Xiangdongs-iMac login[154]: DEAD_PROCESS: 154 ttys001
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: pentadactyl: bootstrap: shutdown shutdown
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * created temp file                     	 (0)
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * saved filter data                     	 (7)
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * saved subscription data               	 (4)
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * finalized file write                  	 (0)
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: * created backups and renamed temp file 	 (1)
+May 16 00:52:52 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[119]: AUP timeline: filterStorage.saveToDisk() done         	 (0)
+May 16 00:52:53 Lin-Xiangdongs-iMac Alfred[224]: Alfred App is exiting, cleaning up...
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.talagent[122]): Exited: Killed: 9
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.mdworker.pool.0[140]): Exited: Terminated: 15
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.quicklook[196]): Exited: Killed: 9
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] ([0x0-0x17017].com.apple.iTunesHelper[222]): Exited: Killed: 9
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.dt.instruments.backgroundinstruments[205]): Exited: Killed: 9
+May 16 00:52:53 Lin-Xiangdongs-iMac [0x0-0x14014].com.sogou.inputmethod.sogou[199]: 初始化成功
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[107] (com.apple.mdworker.lsb.0[272]): Exited: Terminated: 15
+May 16 00:52:53 Lin-Xiangdongs-iMac loginwindow[63]: DEAD_PROCESS: 63 console
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.dock.extra[285]: Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.dock.extra[285]: 2012-05-16 00:52:53.680 com.apple.dock.extra[285:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.dock.extra[285]: Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:52:53: --- last message repeated 2 times ---
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.dock.extra[285]: 2012-05-16 00:52:53.682 com.apple.dock.extra[285:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.dock.extra[285]: 2012-05-16 00:52:53.683 com.apple.dock.extra[285:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:52:53 Lin-Xiangdongs-iMac com.apple.dock.extra[285]: 2012-05-16 00:52:53.684 com.apple.dock.extra[285:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 16 00:52:53 Lin-Xiangdongs-iMac airportd[287]: _doAutoJoin: Already associated to “linxd”. Bailing on auto-join.
+May 16 00:52:53 Lin-Xiangdongs-iMac loginwindow[63]: LWCASProcessNotificationManager UNEXPECTED NOTIFICATION of type: kLSNotifyLaunchFinished
+May 16 00:52:53 Lin-Xiangdongs-iMac shutdown[289]: halt by linxd: 
+May 16 00:52:53 Lin-Xiangdongs-iMac shutdown[289]: SHUTDOWN_TIME: 1337100773 934864
+May 21 21:27:04 localhost UserEventAgent[11]: starting CaptiveNetworkSupport as SystemEventAgent built Jun 13 2011 17:29:21
+May 21 21:27:04 localhost UserEventAgent[11]: CertsKeychainMonitor: configuring
+May 21 21:27:04 localhost UserEventAgent[11]: WirelessAirPortDeviceNameCopy(): no BSD interface name found for object 13063
+May 21 21:27:04 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptiveSCCopyWiFiDevices:388 WiFi Device Name == NULL
+May 21 21:26:54 localhost bootlog[0]: BOOT_TIME 1337606814 0
+May 21 21:26:56 localhost com.apple.launchd[1]: *** launchd[1] has started up. ***
+May 21 21:27:03 localhost com.apple.launchd[1] (com.apple.instruments.server.mig): Unknown value for key POSIXSpawnType: Interactive
+May 21 21:27:03 localhost com.apple.launchd[1] (com.apple.powerd): Unknown value for key POSIXSpawnType: Interactive
+May 21 21:27:03 localhost com.apple.launchd[1] (com.apple.sandboxd): Unknown value for key POSIXSpawnType: Interactive
+May 21 21:27:05 localhost mDNSResponder[12]: mDNSResponder mDNSResponder-320.16 (Mar 17 2012 21:31:16) starting OSXVers 11
+May 21 21:27:09 localhost airportd[32]: _processDLILEvent: en1 attached (down)
+May 21 21:27:09 localhost UserEventAgent[11]: CaptiveNetworkSupport:CreateInterfaceWatchList:2788 WiFi Devices Found. :)
+May 21 21:27:09 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - PreProbe
+May 21 21:27:09 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptiveSCRebuildCache:81 Failed to get service order
+May 21 21:27:09: --- last message repeated 1 time ---
+May 21 21:27:09 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - PreProbe
+May 21 21:27:09 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptiveSCRebuildCache:81 Failed to get service order
+May 21 21:27:09: --- last message repeated 1 time ---
+May 21 21:27:09 localhost UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - PreProbe
+May 21 21:27:10 localhost systemkeychain[27]: done file: /var/run/systemkeychaincheck.done
+May 21 21:27:10 localhost mDNSResponder[12]: D2D_IPC: Loaded
+May 21 21:27:10 localhost mDNSResponder[12]: D2DInitialize succeeded
+May 21 21:27:10 localhost com.apple.ucupdate.plist[53]: ucupdate: Checked 1 update, no match found.
+May 21 21:27:10 localhost com.apple.pfctl[59]: No ALTQ support in kernel
+May 21 21:27:10 localhost com.apple.pfctl[59]: ALTQ related functions disabled
+May 21 21:27:10 localhost configd[17]: bootp_session_transmit: bpf_write(en1) failed: Network is down (50)
+May 21 21:27:10 localhost configd[17]: DHCP en1: INIT transmit failed
+May 21 21:27:10 localhost UserEventAgent[11]: ServermgrdRegistration cannot load config data
+May 21 21:27:11 localhost UserEventAgent[11]: get_backup_share_points no AFP
+May 21 21:27:11 Lin-Xiangdongs-iMac configd[17]: setting hostname to "Lin-Xiangdongs-iMac.local"
+May 21 21:27:11 Lin-Xiangdongs-iMac configd[17]: network configuration changed.
+May 21 21:27:11 Lin-Xiangdongs-iMac loginwindow[63]: Login Window Application Started
+May 21 21:27:11 Lin-Xiangdongs-iMac com.apple.usbmuxd[52]: usbmuxd-268.5 on Jan  5 2012 at 03:34:01, running 64 bit
+May 21 21:27:13 Lin-Xiangdongs-iMac netbiosd[80]: Unable to start NetBIOS name service: 
+May 21 21:27:14 Lin-Xiangdongs-iMac mds[61]: (Normal) FMW: FMW 0 0
+May 21 21:27:24 Lin-Xiangdongs-iMac configd[17]: network configuration changed.
+May 21 21:27:24 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - Probe
+May 21 21:27:24 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CNSPreferences:60 Creating new preferences
+May 21 21:27:24 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CaptiveStartDetect:2343 Bypassing probe on linxd because it is protected and not on the exception list
+May 21 21:27:24 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CaptivePublishState:1211 en1 - Unknown
+May 21 21:27:24 Lin-Xiangdongs-iMac configd[17]: network configuration changed.
+May 21 21:27:24 Lin-Xiangdongs-iMac airportd[32]: _doAutoJoin: Already associated to “linxd”. Bailing on auto-join.
+May 21 21:27:26 Lin-Xiangdongs-iMac loginwindow[63]: **DMPROXY** Found `/System/Library/CoreServices/DMProxy'.
+May 21 21:27:27 Lin-Xiangdongs-iMac com.apple.launchctl.LoginWindow[97]: com.apple.findmymacmessenger: Already loaded
+May 21 21:27:27 Lin-Xiangdongs-iMac airportd[32]: _doAutoJoin: Already associated to “linxd”. Bailing on auto-join.
+May 21 21:27:27 Lin-Xiangdongs-iMac loginwindow[63]: Login Window Started Security Agent
+May 21 21:27:09 Lin-Xiangdongs-iMac ntpd[49]: proto: precision = 1.000 usec
+May 21 21:27:10 Lin-Xiangdongs-iMac SecurityAgent[106]: Echo enabled
+May 21 21:27:10 Lin-Xiangdongs-iMac rpcsvchost[104]: sandbox_init: com.apple.msrpc.netlogon.sb succeeded
+May 21 21:27:10 Lin-Xiangdongs-iMac SecurityAgent[106]: User info context values set for linxd
+May 21 21:27:10 Lin-Xiangdongs-iMac WindowServer[84]: kCGErrorFailure: Set a breakpoint @ CGErrorBreakpoint() to catch errors as they are logged.
+May 21 21:27:10 Lin-Xiangdongs-iMac loginwindow[63]: Login Window - Returned from Security Agent
+May 21 21:27:10 Lin-Xiangdongs-iMac airportd[32]: _doAutoJoin: Already associated to “linxd”. Bailing on auto-join.
+May 21 21:27:10 Lin-Xiangdongs-iMac loginwindow[63]: USER_PROCESS: 63 console
+May 21 21:27:10 Lin-Xiangdongs-iMac applepushserviced[77]: Unable to bootstrap_lookup connection port for 'com.apple.iCalPush': unknown error code
+May 21 21:27:10 Lin-Xiangdongs-iMac applepushserviced[77]: Unable to bootstrap_lookup connection port for 'com.apple.safaridavclient.push': unknown error code
+May 21 21:27:10 Lin-Xiangdongs-iMac applepushserviced[77]: Unable to bootstrap_lookup connection port for 'com.apple.syncdefaultsd.push': unknown error code
+May 21 21:27:10 Lin-Xiangdongs-iMac applepushserviced[77]: Unable to bootstrap_lookup connection port for 'com.apple.AddressBook.PushNotification': unknown error code
+May 21 21:27:10 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[112] (com.apple.ReportCrash): Falling back to default Mach exception handler. Could not find: com.apple.ReportCrash.Self
+May 21 21:27:10 Lin-Xiangdongs-iMac com.apple.launchctl.Aqua[114]: load: option requires an argument -- D
+May 21 21:27:10 Lin-Xiangdongs-iMac com.apple.launchctl.Aqua[114]: usage: launchctl load [-wF] [-D <user|local|network|system|all>] paths...
+May 21 21:27:12 Lin-Xiangdongs-iMac [0x0-0x5005].com.googlecode.iterm2[122]: objc[122]: Class GrowlApplicationBridge is implemented in both /Applications/iTerm.app/Contents/MacOS/../Frameworks/Growl.framework/Versions/A/Growl and /Applications/iTerm.app/Contents/Frameworks/Growl.framework/Growl. One of the two will be used. Which one is undefined.
+May 21 21:27:12 Lin-Xiangdongs-iMac [0x0-0x5005].com.googlecode.iterm2[122]: objc[122]: Class GrowlDelegate is implemented in both /Applications/iTerm.app/Contents/MacOS/../Frameworks/Growl.framework/Versions/A/Growl and /Applications/iTerm.app/Contents/Frameworks/Growl.framework/Growl. One of the two will be used. Which one is undefined.
+May 21 21:27:12 Lin-Xiangdongs-iMac [0x0-0x5005].com.googlecode.iterm2[122]: objc[122]: Class GrowlPathUtilities is implemented in both /Applications/iTerm.app/Contents/MacOS/../Frameworks/Growl.framework/Versions/A/Growl and /Applications/iTerm.app/Contents/Frameworks/Growl.framework/Growl. One of the two will be used. Which one is undefined.
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[112] (com.apple.launchctl.Aqua[114]): Exited with code: 1
+May 21 21:27:12 Lin-Xiangdongs-iMac UserEventAgent[11]: CaptiveNetworkSupport:CNSServerRegisterUserAgent:187 new user agent port: 17435
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: 2012-05-21 21:27:12.933 com.apple.dock.extra[143:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: 2012-05-21 21:27:12.938 com.apple.dock.extra[143:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: 2012-05-21 21:27:12.939 com.apple.dock.extra[143:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:12 Lin-Xiangdongs-iMac com.apple.dock.extra[143]: 2012-05-21 21:27:12.940 com.apple.dock.extra[143:1707] Could not connect the action buttonPressed: to target of class NSApplication
+May 21 21:27:13 Lin-Xiangdongs-iMac login[147]: USER_PROCESS: 147 ttys000
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x10010].com.sogou.inputmethod.sogou[164]: objc[164]: Object 0x45efd0 of class __NSCFString autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x10010].com.sogou.inputmethod.sogou[164]: objc[164]: Object 0x45f040 of class NSPathStore2 autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x10010].com.sogou.inputmethod.sogou[164]: objc[164]: Object 0x45f210 of class NSPathStore2 autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+May 21 21:27:13 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener init !
+May 21 21:27:13 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener notifCenter addObserver !
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: dactyl: bootstrap: startup startup
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: dactyl: bootstrap: init pentadactyl@dactyl.googlecode.com
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: bootstrap: init
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Begin base]
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: (End   base)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: bootstrap: register: {16dc34f7-6d22-4aa4-a67f-2921fb5dcb69} @mozilla.org/commandlinehandler/general-startup;1?type=dactyl
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: Entered aup.init()                      	 (first event)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * calling prefs.init()                  	 (0)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * calling filterListener.init()         	 (1)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * calling proxy.init()                  	 (1)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * calling filterStorage.init()          	 (0)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * Entered filterStorage.loadFromDisk()  	 (0)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * * done locating patterns.ini file     	 (0)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * * done parsing file                   	 (119)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * * load complete, calling observers    	 (0)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class DownloadHelper is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class Logger is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class StringUtils is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class SqliteDao is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class PreferenceManager is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class TaskHelper is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class BtTask is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class EmuleTask is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class P2spTask is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x8008].com.xunlei.Thunder[125]: objc[125]: Class Task is implemented in both /Applications/Thunder.app/Contents/MacOS/Thunder and /Applications/Thunder.app/Contents/MacOS/TaskManager.dylib. One of the two will be used. Which one is undefined.
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * filterStorage.loadFromDisk() done     	 (87)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * calling policy.init()                 	 (1)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * calling synchronizer.init()           	 (1)
+May 21 21:27:13 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: aup.init() done                         	 (0)
+May 21 21:27:14 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener inputSourceChanged !
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: bootstrap: create module: @mozilla.org/commandlinehandler/general-startup;1?type=dactyl
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: require: loading config into command-line-handler
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Begin config]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading dom into config
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin dom]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   dom)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading io into config
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin io]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     require: loading services into io
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     [Begin services]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     (End   services)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   io)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading protocol into config
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin protocol]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     require: loading util into protocol
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     [Begin util]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     (End   util)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   protocol)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading template into config
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin template]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   template)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading storage into resource://dactyl-mob173t71/base.jsm:128
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin storage]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   storage)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: (End   config)
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: require: loading cache into resource://dactyl-mob173t71/base.jsm:128
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Begin cache]
+May 21 21:27:14 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: (End   cache)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: require: loading prefs into bootstrap
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Begin prefs]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: (End   prefs)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: require: loading main into bootstrap
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Begin main]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading overlay into main
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin overlay]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   overlay)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading highlight into resource://dactyl-mob173t71/base.jsm:128
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin highlight]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   highlight)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading styles into resource://dactyl-mob173t71/base.jsm:128
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin styles]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   styles)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading messages into resource://dactyl-mob173t71/base.jsm:128
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin messages]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   messages)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading addons into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin addons]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   addons)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading buffer into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin buffer]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   buffer)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading commands into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin commands]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     require: loading contexts into commands
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     [Begin contexts]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     (End   contexts)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   commands)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading completion into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin completion]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   completion)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading downloads into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin downloads]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   downloads)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading finder into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin finder]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   finder)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading help into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin help]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   help)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading javascript into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin javascript]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   javascript)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading main into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading options into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin options]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   options)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading sanitizer into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin sanitizer]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   sanitizer)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   Load: dactyl
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     from: resource://dactyl-mob173t71/main.jsm:318
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   require: loading bookmarkcache into jsmodules
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   [Begin bookmarkcache]
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   (End   bookmarkcache)
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   Load: statusline
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     from: resource://dactyl-content/dactyl.js:1353
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   Load: modes
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     from: resource://dactyl-content/modes.js:511
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   Load: tabs
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:     from: resource://dactyl-content/statusline.js:324
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   Loaded in 97ms
+May 21 21:27:16 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: (End   main)
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: quickmarks
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/statusline.js:224
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: sourcing /Users/linxd/.pentadactylrc
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: autocommands
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/highlight.jsm:299
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: events
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/contexts.jsm:494
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: marks
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/marks.js:316
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: browser
+May 21 21:27:17 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/browser.js:188
+May 21 21:27:18 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: done sourcing /Users/linxd/.pentadactylrc: 116ms
+May 21 21:27:30 Lin-Xiangdongs-iMac com.apple.launchd[1] (com.apple.coreservices.appleid.authentication[103]): Exit timeout elapsed (20 seconds). Killing
+May 21 21:27:40 Lin-Xiangdongs-iMac UserEventAgent[11]: [11] error in getAndLockContext: open returned -1 (errno=2)  file was /private/var/servermgrd//servermgr_certs.lock
+May 21 21:27:40: --- last message repeated 1 time ---
+May 21 21:27:40 Lin-Xiangdongs-iMac UserEventAgent[11]: CertsKeychainMonitor: ready to process keychain & timer events
+May 21 21:28:11 Lin-Xiangdongs-iMac SogouCloudAgent[196]: before listenNofification
+May 21 21:28:11 Lin-Xiangdongs-iMac SogouCloudAgent[196]: after listenNofification
+May 21 21:28:11 Lin-Xiangdongs-iMac SogouCloudAgent[196]: before sendSkinChangedNotification
+May 21 21:28:11 Lin-Xiangdongs-iMac Growl[199]: <GCDAsyncSocket: 0x106a33ab0> now accepting ((null))
+May 21 21:28:11 Lin-Xiangdongs-iMac Growl[199]: Setup timer, this should only happen once
+May 21 21:28:11 Lin-Xiangdongs-iMac Growl[199]: Next image check no earlier than 24 hours from 2012-05-20 15:59:00 +0000
+May 21 21:28:11 Lin-Xiangdongs-iMac appleprofilepolicyd[209]: appleprofilepolicyd: profiling drivers not loaded, loading
+May 21 21:28:11 Lin-Xiangdongs-iMac iTerm[122]: Growl is ready
+May 21 21:28:12 Lin-Xiangdongs-iMac com.apple.launchd.peruser.501[112] (com.apple.CSConfigDotMacCert-harry.linxd@me.com-SharedServices[197]): Exited with code: 1
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: Entered INJECT_pthread_entry
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: Installing event loop timer
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: proc: 0x10856de5b
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: upp: 0x10856de5b
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: InstallEventLoopTimer: 0x7fff8ac1e23a
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: GetMainEventLoop: 0x7fff8abdf95d
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: timer installed!
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: Loading /Library/DropboxHelperTools/Dropbox_u501/DropboxBundle.bundle/Contents/MacOS/DropboxBundle
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: Dropbox: dlopen returned: 0x7fcac5323b20
+May 21 21:28:16 Lin-Xiangdongs-iMac com.apple.Finder[129]: module initializer in main thread?: 1
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * created temp file                     	 (1)
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * saved filter data                     	 (122)
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * saved subscription data               	 (4)
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * finalized file write                  	 (0)
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: * created backups and renamed temp file 	 (1)
+May 21 21:32:15 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: AUP timeline: filterStorage.saveToDisk() done         	 (0)
+May 21 21:37:13 Lin-Xiangdongs-iMac warmd[51]: [__warmctl_evt_desktop_up_block_invoke_0:478] Desktop up bcstop timer fired!
+May 21 21:45:15 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener inputSourceChanged !
+May 21 21:45:17: --- last message repeated 1 time ---
+May 21 21:45:17 Lin-Xiangdongs-iMac Welly[272]: A regular control size progress indicator <PSMProgressIndicator: 0x1006eb2b0> with the frame size for small control size detected.  Please use -setControlSize: to explicitly specify NSSmallControlSize
+May 21 21:45:18 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: editor
+May 21 21:45:18 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/events.js:602
+May 21 21:45:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: mappings
+May 21 21:45:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/events.js:798
+May 21 21:45:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: commandline
+May 21 21:45:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/modes.js:267
+May 21 21:45:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: mow
+May 21 21:45:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/commandline.js:881
+May 21 21:45:21 Lin-Xiangdongs-iMac TISwitcher[201]: CPSGetCurrentProcess(): This call is deprecated and should not be called anymore.
+May 21 21:45:21 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener inputSourceChanged !
+May 21 21:45:25 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: abbreviations
+May 21 21:45:25 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/editor.js:511
+May 21 22:16:06 Lin-Xiangdongs-iMac firefox[124]: -_scrollPhase is deprecated for NSScrollWheel. Please use -momentumPhase.
+May 21 22:17:22 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel setDataSource:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:17:22 Lin-Xiangdongs-iMac Welly[272]: [QL] -[QLPreviewView setEnableDragNDrop:] has been deprecated and will be removed in a future release. 
+May 21 22:17:22 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:17:22 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:19:11 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:19:11 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:21:11 Lin-Xiangdongs-iMac amule[322]: CFURLCreateWithString was passed this invalid URL string: '/System/Library/CoreServices/CommonCocoaPanels.bundle' (a file system path instead of an URL string). The URL created will not work with most file URL functions. CFURLCreateWithFileSystemPath or CFURLCreateWithFileSystemPathRelativeToBase should be used instead.
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:21:06: amuleAppCommon.cpp(333): Initialising aMule 2.3.1 compiled with wxMac v2.8.12 (Debugging)
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:21:06: amuleAppCommon.cpp(379): Checking if there is an instance already running...
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:21:06: amuleAppCommon.cpp(410): No other instances are running.
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:21:10: ListenSocket.cpp(65): ListenSocket: Ok.
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:21:11: DownloadQueue.cpp(113): Loading temp files from /Users/linxd/Library/Application Support/aMule/Temp.
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:21:11: DownloadQueue.cpp(163): All PartFiles Loaded.
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:24:15: amule.cpp(239): Now, exiting main app...
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:24:15: amule.cpp(269): aMule OnExit: Terminating core.
+May 21 22:24:15 Lin-Xiangdongs-iMac [0x0-0x28028].org.amule.aMule[322]:  2012-05-21 22:24:15: amule.cpp(335): aMule shutdown completed.
+May 21 22:24:36 Lin-Xiangdongs-iMac amule[341]: CFURLCreateWithString was passed this invalid URL string: '/System/Library/CoreServices/CommonCocoaPanels.bundle' (a file system path instead of an URL string). The URL created will not work with most file URL functions. CFURLCreateWithFileSystemPath or CFURLCreateWithFileSystemPathRelativeToBase should be used instead.
+May 21 22:27:08 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: All dactyl modules destroyed
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:24:36: amuleAppCommon.cpp(333): Initialising aMule 2.3.1 compiled with wxMac v2.8.12 (Debugging)
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:24:36: amuleAppCommon.cpp(379): Checking if there is an instance already running...
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:24:36: amuleAppCommon.cpp(410): No other instances are running.
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:24:36: ListenSocket.cpp(65): ListenSocket: Ok.
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:24:36: DownloadQueue.cpp(113): Loading temp files from /Users/linxd/Library/Application Support/aMule/Temp.
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:24:36: DownloadQueue.cpp(163): All PartFiles Loaded.
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:27:23: amule.cpp(239): Now, exiting main app...
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:27:23: amule.cpp(269): aMule OnExit: Terminating core.
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:27:23: DownloadQueue.cpp(103): Saving PartFile 1 of 1
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:27:23: DownloadQueue.cpp(106): All PartFiles Saved.
+May 21 22:27:23 Lin-Xiangdongs-iMac [0x0-0x29029].org.amule.aMule[341]:  2012-05-21 22:27:23: amule.cpp(335): aMule shutdown completed.
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[61.000000,18.000000] offset [656.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[72.000000,18.000000] offset [717.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[34.000000,18.000000] offset [582.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[76.000000,18.000000] offset [789.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[36.000000,18.000000] offset [865.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[24.000000,18.000000] offset [901.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[33.000000,18.000000] offset [925.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[32.000000,18.000000] offset [958.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[88.000000,18.000000] offset [274.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[40.000000,18.000000] offset [362.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[39.000000,18.000000] offset [402.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[36.000000,18.000000] offset [441.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[41.000000,18.000000] offset [477.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[30.000000,18.000000] offset [990.000000,54.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[57.000000,18.000000] offset [518.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[66.000000,18.000000] offset [575.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[48.000000,18.000000] offset [641.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[26.000000,18.000000] offset [689.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[94.000000,18.000000] offset [715.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[92.000000,18.000000] offset [809.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[73.000000,18.000000] offset [901.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[79.000000,18.000000] offset [0.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[46.000000,18.000000] offset [974.000000,0.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[67.000000,18.000000] offset [79.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[21.000000,18.000000] offset [146.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[103.000000,18.000000] offset [167.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[35.000000,18.000000] offset [270.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[37.000000,18.000000] offset [305.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[77.000000,18.000000] offset [342.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[38.000000,18.000000] offset [419.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[57.000000,18.000000] offset [457.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[51.000000,18.000000] offset [514.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[64.000000,18.000000] offset [565.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[46.000000,18.000000] offset [629.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[90.000000,18.000000] offset [675.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[115.000000,18.000000] offset [0.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[51.000000,18.000000] offset [765.000000,36.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[90.000000,18.000000] offset [115.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[52.000000,18.000000] offset [205.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[83.000000,18.000000] offset [257.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[46.000000,18.000000] offset [340.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[90.000000,18.000000] offset [386.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[33.000000,18.000000] offset [476.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[38.000000,18.000000] offset [509.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[25.000000,18.000000] offset [547.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: updateGLTextureWithBitmapData: glPixelStorei returned an error : 506 (subSize=[45.000000,18.000000] offset [572.000000,72.000000] glID:2, context:0x7fcac3dc5380)
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: error before reading pixels: 506
+May 21 22:31:35 Lin-Xiangdongs-iMac Finder[129]: --ImageKit Error: error after reading pixels: 506
+May 21 22:31:35 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel setCurrentPreviewItemIndex:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:31:35 Lin-Xiangdongs-iMac Welly[272]: [QL] QLError(): -[QLPreviewPanel reloadDataPreservingDisplayState:] called while the panel has no controller - Fix this or this will raise soon.
+		See comments in QLPreviewPanel.h for -acceptsPreviewPanelControl:/-beginPreviewPanelControl:/-endPreviewPanelControl:.
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: dactyl
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/main.jsm:318
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: statusline
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/dactyl.js:1353
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: modes
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/modes.js:511
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: tabs
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/statusline.js:324
+May 21 22:32:19 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Loaded in 73ms
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: quickmarks
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/statusline.js:224
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: sourcing /Users/linxd/.pentadactylrc
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: autocommands
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/highlight.jsm:299
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: events
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/contexts.jsm:494
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: marks
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/marks.js:316
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: browser
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/browser.js:188
+May 21 22:32:20 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: done sourcing /Users/linxd/.pentadactylrc: 92ms
+May 21 22:32:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: mappings
+May 21 22:32:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/events.js:798
+May 21 22:32:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: editor
+May 21 22:32:21 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/buffer.jsm:1836
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-mob173t71/util.jsm :: trapErrors :: line 1516"  data: no]
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-mob173t71/util.jsm:1256
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-mob173t71/util.jsm:1519
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:578
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	focusContent(true)@resource://dactyl-content/dactyl.js:603
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	([object Object],[object Object])@resource://dactyl-content/modes.js:154
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	reset()@resource://dactyl-content/modes.js:404
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	_onTabSelect([object Event])@resource://dactyl-content/tabs.js:104
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	_closure([object Event])@resource://dactyl-mob173t71/base.jsm:1038
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	updateCurrentBrowser()@chrome://browser/content/tabbrowser.xml:947
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	onselect([object Event])@chrome://browser/content/browser.xul:1
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	set_selectedIndex(1)@chrome://global/content/bindings/tabbox.xml:657
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	set_selectedPanel([object XULElement])@chrome://global/content/bindings/tabbox.xml:676
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	set_selectedIndex(1)@chrome://global/content/bindings/tabbox.xml:394
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	set_selectedItem([object XULElement])@chrome://global/content/bindings/tabbox.xml:426
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	set_selectedTab([object XULElement])@chrome://global/content/bindings/tabbox.xml:106
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	set_selectedTab([object XULElement])@chrome://browser/content/tabbrowser.xml:2019
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	loadOneTab("about:blank",(void 0))@chrome://browser/content/tabbrowser.xml:1127
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	openLinkIn("about:blank","tab",[object Object])@chrome://browser/content/utilityOverlay.js:275
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	openUILinkIn("about:blank","tab")@chrome://browser/content/utilityOverlay.js:169
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	BrowserOpenTab()@chrome://browser/content/browser.js:5778
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	oncommand([object XULCommandEvent])@chrome://browser/content/browser.xul:1
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: toString: function () String(error)
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: commandline
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/modes.js:267
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: mow
+May 21 22:32:24 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/commandline.js:881
+May 21 22:32:25 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: abbreviations
+May 21 22:32:25 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/editor.js:511
+May 21 22:40:50 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener inputSourceChanged !
+May 21 22:41:24 Lin-Xiangdongs-iMac iTunes[365]: The plugin 'Quartz Composer Visualizer' failed to load because it has the wrong CPU architecture for this version of iTunes. (3585)
+May 21 22:41:27 Lin-Xiangdongs-iMac SyncServer[369]: [0x100b16ef0] |DataManager|Warning| Client com.apple.Mail.Notes image file path /System/Library/Frameworks/Message.framework/Resources/Syncer.syncschema/Contents/Resources/MailSyncClient.icns does not exist.
+May 21 22:45:58 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener inputSourceChanged !
+May 21 22:46:02: --- last message repeated 1 time ---
+May 21 22:46:02 Lin-Xiangdongs-iMac SogouCloudAgent[196]: -[SGCloudHttpHelper sendRequestWithTimeout:],65    -0 sendRequestWithTimeout ! isAlive ? 1
+May 21 22:46:02 Lin-Xiangdongs-iMac SogouCloudAgent[196]: -[SGCloudHttpHelper openConnection],81    -0 open ! isAlive ? 1
+May 21 22:46:02 Lin-Xiangdongs-iMac SogouCloudAgent[196]: -[SGCloudHttpHelper stream:handleEvent:],128    -0 stream ! isAlive ? 1
+May 21 22:46:02: --- last message repeated 6 times ---
+May 21 22:46:02 Lin-Xiangdongs-iMac SogouCloudAgent[196]: -[SGCloudHttpHelper cancel],210    -0 cancel ! isAlive ? 0
+May 21 22:46:02 Lin-Xiangdongs-iMac SogouCloudAgent[196]: -[SGCloudHttpHelper relaseConnection],105    -0 relaseConnection ! isAlive ? 0
+May 21 22:50:09 Lin-Xiangdongs-iMac SogouInput[164]: SGInputSourceChangeListener inputSourceChanged !
+May 21 22:50:27 Lin-Xiangdongs-iMac com.apple.kextcache[358]: Created prelinked kernel /System/Library/Caches/com.apple.kext.caches/Startup/kernelcache.
+May 21 23:04:30 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: All dactyl modules destroyed
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: dactyl
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/main.jsm:318
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: statusline
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/dactyl.js:1353
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: modes
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/modes.js:511
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: tabs
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/statusline.js:324
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Loaded in 73ms
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: quickmarks
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/statusline.js:224
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: sourcing /Users/linxd/.pentadactylrc
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: autocommands
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/highlight.jsm:299
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: events
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/contexts.jsm:494
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: marks
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/marks.js:316
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: browser
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/browser.js:188
+May 21 23:04:43 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: done sourcing /Users/linxd/.pentadactylrc: 97ms
+May 21 23:04:45 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: mappings
+May 21 23:04:45 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/events.js:798
+May 21 23:04:45 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: editor
+May 21 23:04:45 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-mob173t71/buffer.jsm:1836
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-mob173t71/util.jsm :: trapErrors :: line 1516"  data: no]
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-mob173t71/util.jsm:1256
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-mob173t71/util.jsm:1519
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:578
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	select()@chrome://global/content/bindings/textbox.xml:112
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	select()@chrome://browser/content/search/search.xml:157
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	BrowserSearch_webSearch()@chrome://browser/content/browser.js:7014
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	oncommand([object XULCommandEvent])@chrome://browser/content/browser.xul:1
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: toString: function () String(error)
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: commandline
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/modes.js:267
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: mow
+May 21 23:04:47 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/commandline.js:881
+May 21 23:05:45 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: Load: abbreviations
+May 21 23:05:45 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl:   from: resource://dactyl-content/editor.js:511
+May 21 23:07:59 Lin-Xiangdongs-iMac KernelEventAgent[65]: tid 00000000 received event(s) VQ_LOWDISK, VQ_VERYLOWDISK (516)
+May 21 23:08:00 Lin-Xiangdongs-iMac DiskImages UI Agent[433]: *** -[NSMachPort handlePortMessage:]: dropping incoming DO message because the connection is invalid
+May 21 23:08:00 Lin-Xiangdongs-iMac [0x0-0x35035].com.apple.DiskImageMounter[429]: 2012-05-21 23:08:00.589 DiskImages UI Agent[433:707] *** -[NSMachPort handlePortMessage:]: dropping incoming DO message because the connection is invalid
+May 21 23:09:33 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[458]: [0521/230933:INFO:breakpad_mac.mm(177)] Breakpad disabled
+May 21 23:09:35 Lin-Xiangdongs-iMac Google Chrome[458]: stat on /Users/linxd/Library/Application Support/Google/Chrome/Default/Bookmarks: No such file or directory
+May 21 23:09:45 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[458]: [458:-1393651008:6189467072770:ERROR:extension_prefs.cc(1198)] Bad or missing pref 'version' for extension 'blpcfgokakmgnkcojhhkbfbldkacnbeo'
+May 21 23:09:45 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[458]: [458:-1393651008:6189518100514:ERROR:extension_prefs.cc(1198)] Bad or missing pref 'version' for extension 'coobgpohoikkiipiblmjeljniedjpjpf'
+May 21 23:09:45 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[458]: [458:-1393651008:6189618171686:ERROR:extension_prefs.cc(1198)] Bad or missing pref 'version' for extension 'pjkljhegncpnkpknbcohdijeoejaedia'
+May 21 23:10:06 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[458]: [458:-1264480256:6210925238873:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server plusone.google.com:443 failed; NSS error code -5961, net_error -101
+May 21 23:26:57 Lin-Xiangdongs-iMac xpchelper[523]: for uid: 89 -- timeout while waiting on FSEvents flush; clearing cache.
+May 21 23:29:47 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[458]: [458:-1264480256:7391150181876:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server apis.google.com:443 failed; NSS error code -5961, net_error -101
+May 21 23:32:24 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[0]: DVFreeThread - CFMachPortCreateWithPort hack = 0x6c836e20, fPowerNotifyPort= 0x6c8368a0
+May 21 23:32:24 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[0]: DVFreeThread - CFMachPortCreateWithPort hack = 0x6c838650, fPowerNotifyPort= 0x6c84a160
+May 21 23:32:24 Lin-Xiangdongs-iMac [0x0-0x3a03a].com.google.Chrome[0]: DVFreeThread - CFMachPortCreateWithPort hack = 0x6c81c8c0, fPowerNotifyPort= 0x6c837740
+May 21 23:33:12 Lin-Xiangdongs-iMac login[535]: USER_PROCESS: 535 ttys001
+May 21 23:38:06 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: TypeError: invalid 'in' operand obj
+May 21 23:38:06 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: TypeError: invalid 'in' operand obj::
+May 21 23:38:06 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: stack: 	setData((void 0),"focus-allowed",true)@resource://dactyl-mob173t71/overlay.jsm:175
+May 21 23:38:06 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	onMouseDown([object MouseEvent])@resource://dactyl-content/events.js:829
+May 21 23:38:06 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: 	wrappedListener([object MouseEvent])@resource://dactyl-content/events.js:224
+May 21 23:38:06 Lin-Xiangdongs-iMac [0x0-0x7007].org.mozilla.firefox[124]: pentadactyl: toString: function () String(error)
+May 21 23:42:14 Lin-Xiangdongs-iMac login[684]: USER_PROCESS: 684 ttys002
+May 21 23:43:43 Lin-Xiangdongs-iMac login[535]: DEAD_PROCESS: 535 ttys001
+May 21 23:52:08 Lin-Xiangdongs-iMac iTerm[122]: Components for \S+ are (
+	    "/var/log/opendirectoryd.log.0"
+	)
+May 21 23:52:08 Lin-Xiangdongs-iMac iTerm[122]: Components for \~?/?([[:letter:][:number:]._-]+/+)+[[:letter:][:number:]._-]+/? are (
+	    "/var/log/opendirectoryd.log.0",
+	    "log/"
+	)
+May 21 23:52:08 Lin-Xiangdongs-iMac iTerm[122]: Components for ([[:letter:][:number:]._]+\.)+[[:letter:][:number:]._]+ are (
+	    "opendirectoryd.log.0",
+	    "opendirectoryd.log."
+	)
+May 21 23:52:14 Lin-Xiangdongs-iMac login[721]: USER_PROCESS: 721 ttys001
